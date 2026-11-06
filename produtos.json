@@ -301,7 +301,7 @@
   "pix": "",
   "hours": "",
   "insta": "",
-  "regions": "Centro: 3.00\nBairro Exemplo: 5.00",
+  "regions": "Centro: 7.00\nBairro Exemplo: 10.00",
   "cats": "Maquiagem,Skincare,Cabelos,Perfumes,Roupas,Acessórios,Higiene",
   "pay": {
    "pix": 1,
@@ -310,6 +310,7 @@
    "dinheiro": 1
   },
   "pickup": 1,
-  "delivery": 1
+  "delivery": 1,
+  "coupons": ""
  }
 }
